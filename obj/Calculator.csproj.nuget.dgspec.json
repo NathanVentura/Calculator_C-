@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/natha/Meus Documentos/Code/Mini-Projects/Calculator/Calculator.csproj": {}
+    "/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/Calculator.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/natha/Meus Documentos/Code/Mini-Projects/Calculator/Calculator.csproj": {
+    "/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/natha/Meus Documentos/Code/Mini-Projects/Calculator/Calculator.csproj",
+        "projectUniqueName": "/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "/mnt/c/Users/natha/Meus Documentos/Code/Mini-Projects/Calculator/Calculator.csproj",
+        "projectPath": "/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/Calculator.csproj",
         "packagesPath": "/home/nathan/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/natha/Meus Documentos/Code/Mini-Projects/Calculator/obj/",
+        "outputPath": "/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nathan/.nuget/NuGet/NuGet.Config"

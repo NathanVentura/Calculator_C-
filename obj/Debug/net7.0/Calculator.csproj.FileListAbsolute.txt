@@ -1,0 +1,15 @@
+/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/bin/Debug/net7.0/Calculator
+/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/bin/Debug/net7.0/Calculator.deps.json
+/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/bin/Debug/net7.0/Calculator.dll
+/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/bin/Debug/net7.0/Calculator.pdb
+/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/obj/Debug/net7.0/Calculator.dll
+/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/obj/Debug/net7.0/refint/Calculator.dll
+/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/obj/Debug/net7.0/Calculator.pdb
+/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/mnt/c/Users/natha/Documents/Code/Mini_Projects/CSharp/Calculator_CSharp/obj/Debug/net7.0/ref/Calculator.dll
